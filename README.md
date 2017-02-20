@@ -10,6 +10,6 @@ Plugins for Mitmf tool ([Mitmf repo](https://github.com/byt3bl33d3r/MITMf))
 
 ![alt tag](https://raw.githubusercontent.com/avramit/MitmfPlugins/master/screenshot2.png)
 
-###### [*] Reinsta no gui -> --reinsta -img (yourimagefilepath)
+###### [*] Reinsta no gui -> --reinstanogui -img (yourimagefilepath)
 ![alt tag](https://raw.githubusercontent.com/avramit/MitmfPlugins/master/screenshot1.png)
 
