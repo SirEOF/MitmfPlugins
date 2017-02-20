@@ -1,2 +1,3 @@
 # MitmfPlugins
-Plugins to Mitmf tool
+Plugins for Mitmf tool
+##### Move .py files to /usr/share/mitmf/plugins
