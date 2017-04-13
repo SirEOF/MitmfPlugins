@@ -1,4 +1,5 @@
 # MitmfPlugins
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ARVABYAUX3NPC)
 Plugins for Mitmf tool ([Mitmf repo](https://github.com/byt3bl33d3r/MITMf))
 ##### [*] Move .py files to /usr/share/mitmf/plugins
 
